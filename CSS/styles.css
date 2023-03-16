@@ -1,0 +1,23 @@
+body {
+    background-color: #ECF2FF;
+  }
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    width: 3% ;
+    border-width: 4px;
+    border-color: #3E54AC;
+  }
+  h1 {
+    color: #1d1144;
+    text-decoration: underline;
+  }
+  h2 {
+    color: #1d1144;
+    text-decoration: underline;
+  }
+  h3 {
+    color: #635985;
+    text-decoration: underline;
+    
+  }
